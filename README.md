@@ -14,7 +14,7 @@ Simulation code is provided in this repo. It requires [![Pymosim v0.8.0](https:/
 
 <img src="https://user-images.githubusercontent.com/51439829/203148018-f4c85be0-fb24-40f5-ba24-7fe326134d34.gif" width="300">
 
-Tested using Python v3.7.10 with the following packages:
+Tested with Python v3.7.10 and the following packages:
 ```
 Package           Version
 ----------------- -------------------
