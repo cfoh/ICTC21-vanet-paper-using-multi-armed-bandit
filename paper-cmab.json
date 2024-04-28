@@ -2,6 +2,7 @@
   "info": {
     "width": 6349,
     "height": 4520,
+    "version": "0.8.6",
     "resolution": 2000
   },
   "graph.vertices": {
@@ -201802,7 +201803,7 @@
       6356
     ]
   },
-  "graph.edges": {
+  "map.objects": {
     "2429801": {
       "id": 2429801,
       "coords": [

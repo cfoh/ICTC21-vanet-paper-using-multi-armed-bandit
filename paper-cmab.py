@@ -23,8 +23,8 @@ from sim.scenario import BaseScenario
 from sim.event import Event
 from node.node import BaseNode
 from node.mobility import Stationary, StaticPath
-from comm.transceiver import Transceiver28GHz, Transceiver28GHzSteered
-from comm.channel import Channel28HGz
+from comm.mmwave28 import Transceiver28GHz, Transceiver28GHzSteered
+from comm.mmwave28 import Channel28GHz
 from map.mapinfo import MapInfo
 
 ####################################################################
@@ -531,7 +531,7 @@ class MyScenario(BaseScenario):
 
         ## create channel for signal propagation model
         freq = 28 # GHz
-        ch_28GHz = Channel28HGz()
+        ch_28GHz = Channel28GHz()
         #freq = 2.4 # GHz
         #beam_radius = self.map.km(0.3)
 
