@@ -14,3 +14,26 @@ Simulation code is provided in this repo. It requires [![Pymosim v0.8.0](https:/
 
 <img src="https://user-images.githubusercontent.com/51439829/203148018-f4c85be0-fb24-40f5-ba24-7fe326134d34.gif" width="300">
 
+Tested using Python v3.7.10 with the following packages:
+```
+Package           Version
+----------------- -------------------
+certifi           2020.12.5
+cycler            0.11.0
+fonttools         4.33.3
+kiwisolver        1.4.3
+matplotlib        3.5.2
+numpy             1.21.0
+packaging         21.3
+Pillow            9.1.1
+pip               21.0.1
+pyparsing         3.0.9
+pyproj            3.1.0
+python-dateutil   2.8.2
+rope              0.19.0
+setuptools        52.0.0.post20210125
+six               1.15.0
+typing-extensions 4.2.0
+wheel             0.36.2
+wxPython          4.0.4
+```
