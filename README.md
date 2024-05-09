@@ -37,3 +37,15 @@ typing-extensions 4.2.0
 wheel             0.36.2
 wxPython          4.0.4
 ```
+and also Python v3.7.17 with minimum packages:
+```
+Package           Version
+----------------- -------------------
+numpy             1.21.6
+Pillow            9.5.0
+pip               23.0.1
+setuptools        47.1.0
+six               1.16.0
+wxPython          4.2.1
+```
+In Ubuntu, please make sure the OS contains Python virtual environment (python3.7-venv) and development (python3.7-dev), and gtk-3 (libgtk-3-dev) is also installed.
